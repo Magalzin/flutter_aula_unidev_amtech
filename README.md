@@ -22,7 +22,7 @@ Antes de começar, verifique se você tem as ferramentas necessárias instaladas
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/flutter_aula.git
+git clone https://github.com/Magalzin/flutter_aula.git
 cd flutter_aula
 ````
 
