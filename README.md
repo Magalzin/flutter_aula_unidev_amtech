@@ -46,7 +46,7 @@ flutter run
 lib/
 ├── main.dart          # Arquivo principal
 ├── home_page.dart     # Tela inicial com widgets básicos
-└── widgets/           # Componentes reutilizáveis
+└── task.dart          # Componentes reutilizáveis
 ```
 
 ---
